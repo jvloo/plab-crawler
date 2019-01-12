@@ -1,0 +1,1 @@
+This Directory should be writable for generated contents.

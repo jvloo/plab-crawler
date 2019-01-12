@@ -1,0 +1,23 @@
+# Custom Build Bootstrap Using [bootstrap.build](Bootstrap Theme Builder)
+
+  --blue: #5596E6;
+  --indigo: #3B64D2;
+  --purple: #818AEC;
+  --pink: #FFEFED;
+  --red: #eb3833;
+  --orange: #FF4933;
+  --yellow: #FFC555;
+  --green: #41D6C3;
+  --teal: #87DBAE;
+  --cyan: #A6DDFF;
+  --white: #fff;
+  --gray: #93A1B0;
+  --gray-dark: #314351;
+  --primary: #FF4933;
+  --secondary: #FFC600;
+  --success: #41D6C3;
+  --info: #A6DDFF;
+  --warning: #FA5656;
+  --danger: #eb3833;
+  --light: #F9FAFA;
+  --dark: #314351;
